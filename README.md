@@ -90,27 +90,7 @@ streamlit run app.py
 
 ---
 
-## 📸 Demo
 
-Here is a preview of how the application works:
-
-![Workflow](https://i.imgur.com/YOUR_IMAGE_LINK.png)
-*Replace with your image or GIF of the app*
-
----
-
-## 👨‍💻 Author
-
-**Jagannath Paruchuri**
-Aspiring Data Scientist & ML Enthusiast
-Email: \[[your-email@example.com](mailto:your-email@example.com)]
-GitHub: [https://github.com/your-username](https://github.com/your-username)
-
----
-
-
-
----
 
 ## ⭐ Show Your Support
 
